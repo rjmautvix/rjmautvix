@@ -32,7 +32,7 @@ It was a hands-on experience with *real smart contract interaction* and *secure 
 
 ## 🛠️ Tech & Tools
 - *Languages:* Solidity, JavaScript, TypeScript, Python  
-- *Frameworks:* FastAPI, Streamlit, Node.js, Vue.js  
+- *Frameworks:* FastAPI, Streamlit, Node.js, Vue.js, Next.js  
 - *Blockchain:* Ethereum  
 
 ---
@@ -42,5 +42,3 @@ It was a hands-on experience with *real smart contract interaction* and *secure 
 - 📫 Open to collaboration and Web3 projects  
 
 ---
-
-> "Building the decentralized future, one block at a time."
